@@ -1,5 +1,5 @@
 .db
-.1.env
+.env
 node_modules
 components/routes/_*
 .sass-cache/*
